@@ -56,7 +56,7 @@
       "playlist_name": "Goth Essentials",
       "playlist_author": "Curated by Raven",
       "playlist_art": "assets/img/gothic.jpg",
-      "like_count": 66,
+      "like_count": 0,
       "songs": [
         { "title": "Bela Lugosi's Dead", "artist": "Bauhaus", "album": "In the Flat Field", "duration": "9:36", "cover_art": "assets/img/song.png" },
         { "title": "Lucretia My Reflection", "artist": "Sisters of Mercy", "album": "Floodland", "duration": "4:55", "cover_art": "assets/img/song.png" },

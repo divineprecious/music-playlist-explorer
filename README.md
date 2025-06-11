@@ -2,7 +2,7 @@
 
 Submitted by: **Divine Precious-Esue**
 
-Estimated time spent: **8** hours spent in total
+Estimated time spent: **11** hours spent in total
 
 ### Application Features
 
@@ -134,15 +134,15 @@ https://www.loom.com/share/6858c57e5da9414289b26c11b9a55a8d?sid=a587bec4-96a2-4c
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, the live code demos in class as well, particularly the one which involved JSON were extremely helpful for the assignment. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have added a sorting functionality and some more CSS styling. I would have also worked on adding more comments to my code and making the code more modular. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I'd like to make my slides more detailed. In addition, I think I could have more energy and enthusiasm during the presentations in order to engage the audience. 
 
 ### Open-source libraries used
 
@@ -151,3 +151,4 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shoutout to Devarsh and Pamela

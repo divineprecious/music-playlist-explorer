@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <title>Music Playlist Explorer</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+    <body>
+        <header>
+            <!-- Your header content here -->
+            <h1>Music Playlist Explorer</h1>
+            <div id="search-bar">
+                <button id="searchBtn"><i class="fa fa-search"></i></button>
+                <input type="text" id="search" placeholder="Find playlists...">
+                <button id="clearBtn">X</button>
+            </div>  
+            <nav>
+                <ul>
+                    <li><a href=index.html>Featured</a></li>
+                    <li><a href="all.html" class="active">All</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main> 
+            <div id="playlist-cards"></div>
+        </main>
+
+        <div id="playlist-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+
+                <div class="playlist-content">
+                    <img src="assets/img/playlist.png" alt="Playlist Art">
+                    <div class="playlist-info">
+                        <h2 id="playlistName">Playlist Name</h2>
+                        <h3 id="creatorName">Creator Name</h3>
+                    </div>
+                    <button class="shuffle-button">Shuffle</button>
+                </div>
+
+                <div class="song-list"></div>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

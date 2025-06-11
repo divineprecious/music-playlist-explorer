@@ -1,0 +1,109 @@
+{
+  "playlists": [
+    {
+      "playlist_name": "Neo Soul Vibes",
+      "playlist_author": "Erykah Badu",
+      "playlist_art": "assets/img/soul.jpg",
+      "like_count": 123,
+      "songs": [
+        { "title": "On & On", "artist": "Erykah Badu", "album": "Baduizm", "duration": "3:48", "cover_art": "assets/img/song.png" },
+        { "title": "Bag Lady", "artist": "Erykah Badu", "album": "Mama's Gun", "duration": "4:21", "cover_art": "assets/img/song.png" },
+        { "title": "Brown Sugar", "artist": "D'Angelo", "album": "Brown Sugar", "duration": "4:22", "cover_art": "assets/img/song.png" },
+        { "title": "The Light", "artist": "Common", "album": "Like Water for Chocolate", "duration": "4:03", "cover_art": "assets/img/song.png" },
+        { "title": "Didn't Cha Know", "artist": "Erykah Badu", "album": "Mama's Gun", "duration": "3:57", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Velvet Slow Jams",
+      "playlist_author": "DJ Mocha",
+      "playlist_art": "assets/img/velvet.jpg",
+      "like_count": 138,
+      "songs": [
+        { "title": "Fortunate", "artist": "Maxwell", "album": "Life", "duration": "4:59", "cover_art": "assets/img/song.png" },
+        { "title": "Sweet Lady", "artist": "Tyrese", "album": "Tyrese", "duration": "4:50", "cover_art": "assets/img/song.png" },
+        { "title": "Any Time, Any Place", "artist": "Janet Jackson", "album": "janet.", "duration": "5:34", "cover_art": "assets/img/song.png" },
+        { "title": "I Wanna Be Down", "artist": "Brandy", "album": "Brandy", "duration": "4:52", "cover_art": "assets/img/song.png" },
+        { "title": "Nobody", "artist": "Keith Sweat ft. Athena Cage", "album": "Keith Sweat", "duration": "4:20", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Glitter & Guts",
+      "playlist_author": "Queer Icon Radio",
+      "playlist_art": "assets/img/pink.jpg",
+      "like_count": 194,
+      "songs": [
+        { "title": "HOT TO GO!", "artist": "Chappell Roan", "album": "The Rise and Fall...", "duration": "2:45", "cover_art": "assets/img/song.png" },
+        { "title": "Good Luck, Babe!", "artist": "Chappell Roan", "album": "The Rise and Fall...", "duration": "3:59", "cover_art": "assets/img/song.png" },
+        { "title": "MONTERO (Call Me By Your Name)", "artist": "Lil Nas X", "album": "MONTERO", "duration": "2:17", "cover_art": "assets/img/song.png" },
+        { "title": "911", "artist": "Lady Gaga", "album": "Chromatica", "duration": "2:52", "cover_art": "assets/img/song.png" },
+        { "title": "Sweat", "artist": "Shygirl", "album": "Nymph", "duration": "3:15", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Crush Season",
+      "playlist_author": "Moth Girl FM",
+      "playlist_art": "assets/img/crush.jpg",
+      "like_count": 182,
+      "songs": [
+        { "title": "Washing Machine Heart", "artist": "Mitski", "album": "Be the Cowboy", "duration": "2:08", "cover_art": "assets/img/song.png" },
+        { "title": "Nobody", "artist": "Mitski", "album": "Be the Cowboy", "duration": "3:13", "cover_art": "assets/img/song.png" },
+        { "title": "Sofia", "artist": "Clairo", "album": "Immunity", "duration": "3:08", "cover_art": "assets/img/song.png" },
+        { "title": "Motion Sickness", "artist": "Phoebe Bridgers", "album": "Stranger in the Alps", "duration": "3:49", "cover_art": "assets/img/song.png" },
+        { "title": "The Steps", "artist": "HAIM", "album": "Women in Music Pt. III", "duration": "3:39", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Goth Essentials",
+      "playlist_author": "Curated by Raven",
+      "playlist_art": "assets/img/gothic.jpg",
+      "like_count": 66,
+      "songs": [
+        { "title": "Bela Lugosi's Dead", "artist": "Bauhaus", "album": "In the Flat Field", "duration": "9:36", "cover_art": "assets/img/song.png" },
+        { "title": "Lucretia My Reflection", "artist": "Sisters of Mercy", "album": "Floodland", "duration": "4:55", "cover_art": "assets/img/song.png" },
+        { "title": "Spellbound", "artist": "Siouxsie and the Banshees", "album": "Juju", "duration": "3:17", "cover_art": "assets/img/song.png" },
+        { "title": "Cuts You Up", "artist": "Peter Murphy", "album": "Deep", "duration": "4:55", "cover_art": "assets/img/song.png" },
+        { "title": "All Tomorrow's Parties", "artist": "The Velvet Underground", "album": "The Velvet Underground & Nico", "duration": "5:55", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Lo-fi Chillhop",
+      "playlist_author": "DJ Zen",
+      "playlist_art": "assets/img/hip.jpg",
+      "like_count": 184,
+      "songs": [
+        { "title": "Cozy Coffee Shop", "artist": "Lo-Fi Beats", "album": "Lo-fi Chillhop", "duration": "2:58", "cover_art": "assets/img/song.png" },
+        { "title": "Cloud Surfing", "artist": "Dreamy", "album": "Midnight Vibes", "duration": "3:01", "cover_art": "assets/img/song.png" },
+        { "title": "Evening Glow", "artist": "Soft Static", "album": "Warm Nights", "duration": "2:44", "cover_art": "assets/img/song.png" },
+        { "title": "Mellow Mood", "artist": "Chill Panda", "album": "Cozy Days", "duration": "3:05", "cover_art": "assets/img/song.png" },
+        { "title": "Rainy Windows", "artist": "Moody Loop", "album": "Lo-fi Chillhop", "duration": "3:12", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Alt R&B Flow",
+      "playlist_author": "Nia Sky",
+      "playlist_art": "assets/img/flow.jpg",
+      "like_count": 121,
+      "songs": [
+        { "title": "Time", "artist": "Snoh Aalegra", "album": "Feels", "duration": "4:04", "cover_art": "assets/img/song.png" },
+        { "title": "Pink + White", "artist": "Frank Ocean", "album": "Blonde", "duration": "3:04", "cover_art": "assets/img/song.png" },
+        { "title": "Collide", "artist": "Tiana Major9 & EarthGang", "album": "Queen & Slim", "duration": "3:39", "cover_art": "assets/img/song.png" },
+        { "title": "Rose in the Dark", "artist": "Cleo Sol", "album": "Rose in the Dark", "duration": "3:59", "cover_art": "assets/img/song.png" },
+        { "title": "Best Part", "artist": "Daniel Caesar ft. H.E.R.", "album": "Freudian", "duration": "3:30", "cover_art": "assets/img/song.png" }
+      ]
+    },
+    {
+      "playlist_name": "Tape Deck Daydream",
+      "playlist_author": "Indie Flashback",
+      "playlist_art": "assets/img/tape.jpg",
+      "like_count": 176,
+      "songs": [
+        { "title": "Lovers Rock", "artist": "TV Girl", "album": "French Exit", "duration": "3:35", "cover_art": "assets/img/song.png" },
+        { "title": "Cigarettes Out the Window", "artist": "TV Girl", "album": "French Exit", "duration": "3:43", "cover_art": "assets/img/song.png" },
+        { "title": "Japanese Denim", "artist": "Daniel Caesar", "album": "Freudian", "duration": "4:00", "cover_art": "assets/img/song.png" },
+        { "title": "Everytime", "artist": "Boy Pablo", "album": "Roy Pablo", "duration": "2:43", "cover_art": "assets/img/song.png" },
+        { "title": "Pretty Girl", "artist": "Clairo", "album": "diary 001", "duration": "2:58", "cover_art": "assets/img/song.png" }
+      ]
+    }
+  ]
+}
+
